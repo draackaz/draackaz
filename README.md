@@ -1,5 +1,5 @@
 #  About Me:
-Just a wandering soul lost on the internet,<br>I try linux distribution for fun.<br><br>Linux distribution I try:<br>-Arch linux<br>-Debian<br>-Fedora<br>-Void linux<br><br>
+Just a wandering soul lost on the internet,
 
 
 # Software:
